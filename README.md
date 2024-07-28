@@ -6,7 +6,8 @@ Data Science Student
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-- Built a client facing API using flask 
+- Built a client facing API using flask
+  
 ### [Project 2:  Mobile Price Classification using AWS SageMaker](https://github.com/pravin-appa/Mobile-classification-using-Sagemaker-)
 
 - Prepared and preprocessed data for model training.
